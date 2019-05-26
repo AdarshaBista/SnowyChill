@@ -17,7 +17,7 @@ private:
 
 	bool shouldDrawPopUp;
 	float popUpMoveOffset;
-	sf::Clock popUpAnimColock;
+	sf::Clock popUpAnimClock;
 	sf::Time popUpElapsed;
 
 public:

@@ -25,7 +25,7 @@ void Score::setupPopUp(const sf::Vector2f& treePosition)
 	popUpLabel->setPosition(sf::Vector2f(treePosition.x , treePosition.y - 100.0f));
 	
 	popUpMoveOffset = 0.0f;
-	popUpAnimColock.restart();
+	popUpAnimClock.restart();
 	shouldDrawPopUp = true;
 }
 
@@ -59,7 +59,7 @@ void Score::draw(sf::RenderWindow& window)
 
 	if (shouldDrawPopUp)
 	{
-		popUpElapsed = popUpAnimColock.getElapsedTime();
+		popUpElapsed = popUpAnimClock.getElapsedTime();
 		if (popUpElapsed.asMilliseconds() < 300)
 		{
 			popUpMoveOffset += 0.5f;
