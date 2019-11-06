@@ -8,4 +8,4 @@ Inspired by the game Chilly Snow (by AcidCousins).
 
 ## Screenshots
 
-<img height="480px" src="Screenshots/1.png"><img height="480px" src="Screenshots/2.png"><img height="480px" src="Screenshots/3.png"><img height="480px" src="Screenshots/4.png"><img height="480px" src="Screenshots/5.png">
+<img height="480px" src="Screenshots/1.png"> <img height="480px" src="Screenshots/2.png"> <img height="480px" src="Screenshots/3.png"> <img height="480px" src="Screenshots/4.png"> <img height="480px" src="Screenshots/5.png">
